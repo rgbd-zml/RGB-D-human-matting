@@ -7,8 +7,8 @@ This is the official introduction of HDM-2K Dataset and RGB-D Human Matting Netw
 ![](demo/dataset/fig2.jpg)
 
 ###  Download
-The datasets <a href="#am-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below (both at Google Drive and at Baidu Wangpan) ! Please follow the dataset release agreements to access. 
-> | Dataset | <p>Dataset Link<br>(Google Drive)</p> | <p>Dataset Link<br>(Baidu Wangpan 百度网盘)</p> | Dataset Release Agreement|
+The datasets <a href="#am-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below (both at Google Drive and at Baidu Netdisk) ! Please follow the dataset release agreements to access. 
+> | Dataset | <p>Dataset Link<br>(Google Drive)</p> | <p>Dataset Link<br>(Baidu Netdisk)</p> | Dataset Release Agreement|
 > | :----:| :----: | :----: | :----: | 
 > |<strong>HDM-2k</strong>|[Link](https://drive.google.com/drive/folders/1SReB9Zma0TDfDhow7P5kiZNMwY9j9xMA?usp=sharing)|[Link](https://pan.baidu.com/s/1M1uF227-ZrYe3MBafqyTdw) (pw:29r1)|[Agreement (MIT License)](https://jizhizili.github.io/files/gfm_datasets_agreements/AM-2k_Dataset_Release_Agreement.pdf)| 
 > 
