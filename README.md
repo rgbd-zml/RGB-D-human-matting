@@ -8,5 +8,5 @@ The datasets <a href="#am-2k"><strong>HDM-2K</strong></a> can now be openly acce
 > | :----:| :----: | :----: | :----: | 
 > |<strong>hdm-2k</strong>|[Link](https://drive.google.com/drive/folders/1SReB9Zma0TDfDhow7P5kiZNMwY9j9xMA?usp=sharing)|[Link](https://pan.baidu.com/s/1M1uF227-ZrYe3MBafqyTdw) (pw: 29r1)|[Agreement (MIT License)](https://jizhizili.github.io/files/gfm_datasets_agreements/AM-2k_Dataset_Release_Agreement.pdf)| 
 > 
-## RGB-D Human Matting
+## RGB-D Human Matting N
 In this paper, we propose a novel matting method, RGB-D human matting, which achieves the prediction of human alpha matte in various real-world scenes.
