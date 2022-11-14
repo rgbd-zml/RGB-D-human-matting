@@ -5,4 +5,8 @@ In order to promote the RGB-D human matting research, the first RGB-D human matt
 ## RGB-D Human Matting
 In this paper, we propose a novel matting method, RGB-D human matting, which achieves the prediction of human alpha matte in various real-world scenes.
 ##  Download
-We will provide a public download link here soon.
+The datasets <a href="#am-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below (both at Google Drive and at Baidu Wangpan) ! Please follow the dataset release agreements to access. 
+> | Dataset | <p>Dataset Link<br>(Google Drive)</p> | <p>Dataset Link<br>(Baidu Wangpan 百度网盘)</p> | Dataset Release Agreement|
+> | :----:| :----: | :----: | :----: | 
+> |<strong>hdm-2k</strong>|[Link](https://drive.google.com/drive/folders/1SReB9Zma0TDfDhow7P5kiZNMwY9j9xMA?usp=sharing)|[Link](https://pan.baidu.com/s/1M1uF227-ZrYe3MBafqyTdw) (pw: 29r1)|[Agreement (MIT License)](https://jizhizili.github.io/files/gfm_datasets_agreements/AM-2k_Dataset_Release_Agreement.pdf)| 
+> 
