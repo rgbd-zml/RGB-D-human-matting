@@ -17,7 +17,13 @@
 <br/>
 <p align="justify">Additionally, considering that the matting applications with fixed scenes (e.g., video conference rooms, surveillance rooms, etc) have gradually increased in recent years, HDM-2K-FTrack is set up to research fixed-scenes matting. For <strong>HDM-2K-FTrack</strong>, background-shared training and test sets are provided with 1,947 RGB-D images and 323 RGB-D images, respectively. In the HDM-2K-FTrack，the training set contains all 27 scenes and the test set contains 12 scenes that overlap with the training set. Similarly, both the training set and test set cover three lighting conditions. By providing two benchmark tracks and dataset partition of RGB-D human matting based on HDM-2K, it is hoped that the constructed HDM-2K can desirably promote the development of matting algorithms in academic research and practical applications.
  
-<div align=center><img width="480" height="500" src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KFTrack.jpg" alt="The distribution of HDM-2K-FTrack"/></div>
+ <p align="center">
+	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KFTrack.jpg"  width="460" height="480">
+	<p align="center">
+		<em>The distribution of HDM-2K-FTrack</em>
+	</p>
+</p>
+<br/>
   
 ###  Download
 The datasets <a href="#HDM-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below (both at Google Drive and at Baidu Netdisk) ! Please follow the dataset release agreements to access. 
