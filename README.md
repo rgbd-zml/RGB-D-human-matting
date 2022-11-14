@@ -2,9 +2,10 @@
 This is the official introduction of HDM-2K Dataset and RGB-D Human Matting Network.
 ## HDM-2K Dataset
 ### introduction
-In order to promote the RGB-D human matting research, the first RGB-D human matting dataset, HDM-2K, is established in our paper(RGB-D Human Matting). The HDM-2K dataset is comprised of 2270 real-world human images from various scenes, helpful depth maps,and manually annotated alpha mattes.The RGB-D images in HDM-2K are grouped into 27 scene
-subsets according to salient background objects and colors,including green plant, poster, bookcase, brown wall, etc.Meanwhile, the images are captured under different lighting conditions, which include strong light, normal light, and low light.Some examples are shown as below, more can be viewed in the dataset link.
+In order to promote the RGB-D human matting research, the first RGB-D human matting dataset, HDM-2K, is established in our paper(RGB-D Human Matting). The HDM-2K dataset is comprised of 2270 real-world human images from various scenes, helpful depth maps,and manually annotated alpha mattes.The RGB-D images in HDM-2K are grouped into 27 scene subsets according to salient background objects and colors,including green plant, poster, bookcase, brown wall, etc.Meanwhile, the images are captured under different lighting conditions, which include strong light, normal light, and low light.Some examples are shown as below, more can be viewed in the dataset link.
+
 ![](demo/dataset/fig2.jpg)
+
 ###  Download
 The datasets <a href="#am-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below (both at Google Drive and at Baidu Wangpan) ! Please follow the dataset release agreements to access. 
 > | Dataset | <p>Dataset Link<br>(Google Drive)</p> | <p>Dataset Link<br>(Baidu Wangpan 百度网盘)</p> | Dataset Release Agreement|
