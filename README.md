@@ -35,7 +35,7 @@
 The dataset <a href="#HDM-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below (both at Google Drive and at Baidu Netdisk) ! Please follow the dataset release agreements to access. 
 > | Dataset | <p>Dataset Link<br>(Google Drive)</p> | <p>Dataset Link<br>(Baidu Netdisk)</p> | Dataset Release Agreement|
 > | :----:| :----: | :----: | :----: | 
-> |<strong>HDM-2k</strong>|[Link](https://drive.google.com/drive/folders/1SReB9Zma0TDfDhow7P5kiZNMwY9j9xMA?usp=sharing)|[Link](https://pan.baidu.com/s/1M1uF227-ZrYe3MBafqyTdw) (pw:29r1)|[Agreement (MIT License)]()| 
+> |<strong>HDM-2k</strong>|[Link]()|[Link]() (pw:29r1)|[Agreement (MIT License)]()| 
 > 
 
 
