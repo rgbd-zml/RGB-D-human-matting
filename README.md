@@ -1,7 +1,7 @@
 # RGB-D Human Matting Project
 ## HDM-2K Dataset
 ### Introduction
-<p align="justify">To support the research on the deep learning-based RGB-D human matting, a new RGB-D human matting dataset (HDM-2K) is established in this project. The HDM-2K dataset is comprised of <strong>2,270 real-world human images</strong> from various scenes, <strong>helpful depth maps</strong>, and manually annotated alpha mattes. The RGB-D images in HDM-2K are grouped into 27 scene subsets according to salient background objects and colors, including green plant, poster, bookcase, brown wall, etc. Meanwhile, the images are captured under different lighting conditions, which include strong light, normal light, and low light. Some examples are shown as below, more can be viewed in the dataset link.
+<p align="justify">To support the research on the deep learning-based RGB-D human matting, a new RGB-D human matting dataset (HDM-2K) is established in this project. The HDM-2K dataset is comprised of <strong>2,270 real-world human images</strong> from various scenes, <strong>helpful depth maps</strong>, and manually annotated alpha mattes. The RGB-D images in HDM-2K are grouped into 27 scene subsets according to salient background objects and colors, including green plant, poster, bookcase, brown wall, etc. Meanwhile, the images are captured under different lighting conditions, which include strong light, normal light, and low light. Some examples are shown as below.
  
  <p align="center">
 	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/fig2.jpg"  width="760" height="800">
