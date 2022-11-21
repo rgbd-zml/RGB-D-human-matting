@@ -15,7 +15,7 @@
  <p align="justify">Based on HDM-2K, two benchmark tracks, HDM-2K-CTrack and HDM-2K-FTrack, are set up and equipped with two dataset partitions. Similar to the most common matting datasets, the dataset partition for <a href="#HDM-2k-CTrack"><strong>HDM-2k-CTrack</strong></a> is set without overlap between both the foreground human and background scene in the training and the test sets. As a result, the training set contains 1,897 RGB-D images and the test set contains the remaining 373 RGB-D images for HDM-2K-CTrack. As shown in the figure below, there are 20 scenes in the training set and 7 scenes in the test set. Meanwhile, the lighting conditions of strong light, normal light and low light are covered in both the training set and test set. 
 
  <p align="center">
-	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KCTrack.jpg"  width="480" height="520">
+	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KCTrack.jpg"  width="460" height="480">
 	<p align="center">
 		<em>The distribution of HDM-2K-CTrack</em>
 	</p>
