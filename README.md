@@ -35,7 +35,7 @@
 The dataset <a href="#HDM-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below.The dataset can only be used for research purposes.
 > | Dataset | <p>Dataset Link<br>(Baidu Netdisk)</p> | 
 > | :----:| :----: | 
-> |<strong>HDM-2k</strong>|[Link]()|
+> |<strong>HDM-2k</strong>|[Link](https://pan.baidu.com/s/1kyRtc8VCG8cqo28-dS5yVA )|
 > 
 
 
