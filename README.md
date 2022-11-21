@@ -32,7 +32,7 @@
 <br/>
   
 ###  Download
-The dataset <a href="#HDM-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below (both at Google Drive and at Baidu Netdisk) .The dataset can only be used for research purposes.
+The dataset <a href="#HDM-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below.The dataset can only be used for research purposes.
 > | Dataset | <p>Dataset Link<br>(Baidu Netdisk)</p> | 
 > | :----:| :----: | 
 > |<strong>HDM-2k</strong>|[Link]()|
