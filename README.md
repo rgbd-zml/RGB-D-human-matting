@@ -18,16 +18,17 @@
 	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KCTrack.jpg"  width="460" height="480">
 	<p align="center">
 		<em>Fig. 2. Distribution of light conditions and scenes of the training and test sets for HDM-2K-CTrack. LL, NL, and SL denote the low light
-scene, normal light scene, and strong light scene, respectively.TR and TE denote the training set and test set, respectively</em>
+scene, normal light scene, and strong light scene, respectively. TR and TE denote the training set and test set, respectively.</em>
 	</p>
 </p>
 <br/>
-<p align="justify">Additionally, considering that the matting applications with fixed scenes (e.g., video conference rooms, surveillance rooms, etc) have gradually increased in recent years, HDM-2K-FTrack is set up to research fixed-scenes matting. For <a href="#HDM-2k-FTrack"><strong>HDM-2k-FTrack</strong></a>, background-shared training and test sets are provided with 1,947 RGB-D images and 323 RGB-D images, respectively. As shown in Fig. 3, in the HDM-2K-FTrack, the training set contains all 27 scenes and the test set contains 12 scenes that overlap with the training set. Similarly, both the training set and test set cover three lighting conditions By providing two benchmark tracks and dataset partition of RGB-D human matting based on HDM-2K, it is hoped that the constructed HDM-2K can desirably promote the development of matting algorithms in academic research and practical applications.
+<p align="justify">Additionally, considering that the matting applications with fixed scenes (*e.g.,* video conference rooms, surveillance rooms, etc) have gradually increased in recent years, HDM-2K-FTrack is set up to research fixed-scenes matting. For <a href="#HDM-2k-FTrack"><strong>HDM-2k-FTrack</strong></a>, background-shared training and test sets are provided with 1,947 RGB-D images and 323 RGB-D images, respectively. As shown in Fig. 3, in the HDM-2K-FTrack, the training set contains all 27 scenes and the test set contains 12 scenes that overlap with the training set. Similarly, both the training set and test set cover three lighting conditions By providing two benchmark tracks and dataset partition of RGB-D human matting based on HDM-2K, it is hoped that the constructed HDM-2K can desirably promote the development of matting algorithms in academic research and practical applications.
  
  <p align="center">
 	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KFTrack.jpg"  width="460" height="480">
 	<p align="center">
-		<em>Fig. 3. Distribution of light conditions and scenes of the training and test sets for HDM-2K-FTrack.</em>
+		<em>Fig. 2. Distribution of light conditions and scenes of the training and test sets for HDM-2K-FTrack. LL, NL, and SL denote the low light
+scene, normal light scene, and strong light scene, respectively. TR and TE denote the training set and test set, respectively.</em>
 	</p>
 </p>
 <br/>
