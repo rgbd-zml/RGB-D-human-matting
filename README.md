@@ -6,7 +6,7 @@
  <p align="center">
 	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/fig2.jpg"  width="760" height="800">
 	<p align="center">
-		<em>Fig. 1. Some examples from the HDM-2K</em>
+		<em>Fig. 1. Some examples from the HDM-2K dataset.</em>
 	</p>
 </p>
 <br/>
@@ -17,7 +17,7 @@
  <p align="center">
 	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KCTrack.jpg"  width="460" height="480">
 	<p align="center">
-		<em>Fig. 2. Distribution of light conditions and scenes of the training and test sets for HDM-2K-CTrack</em>
+		<em>Fig. 2. Distribution of light conditions and scenes of the training and test sets for HDM-2K-CTrack.</em>
 	</p>
 </p>
 <br/>
@@ -26,7 +26,7 @@
  <p align="center">
 	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KFTrack.jpg"  width="460" height="480">
 	<p align="center">
-		<em>Fig. 3. Distribution of light conditions and scenes of the training and test sets for HDM-2K-FTrack</em>
+		<em>Fig. 3. Distribution of light conditions and scenes of the training and test sets for HDM-2K-FTrack.</em>
 	</p>
 </p>
 <br/>
