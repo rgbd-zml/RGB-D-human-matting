@@ -17,7 +17,8 @@
  <p align="center">
 	<img src="https://github.com/rgbd-zml/RGB-D-human-matting/blob/main/demo/dataset/HDM2KCTrack.jpg"  width="460" height="480">
 	<p align="center">
-		<em>Fig. 2. Distribution of light conditions and scenes of the training and test sets for HDM-2K-CTrack.</em>
+		<em>Fig. 2. Distribution of light conditions and scenes of the training and test sets for HDM-2K-CTrack. LL, NL, and SL denote the low light
+scene, normal light scene, and strong light scene, respectively.TR and TE denote the training set and test set, respectively</em>
 	</p>
 </p>
 <br/>
