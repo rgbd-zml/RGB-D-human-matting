@@ -34,7 +34,7 @@ scene, normal light scene, and strong light scene, respectively. TR and TE denot
 <br/>
   
 ###  Download
-The dataset <a href="#HDM-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below.The dataset can only be used for research purposes.
+The dataset <a href="#HDM-2k"><strong>HDM-2K</strong></a> can now be openly accessed from the links below.The dataset can only be used for research purposes.Besides, we will release the code after the paper is accepted for publication.
 > | Dataset | <p>Dataset Link<br>(Baidu Netdisk)</p> | 
 > | :----:| :----: | 
 > |<strong>HDM-2k</strong>|[Link](https://pan.baidu.com/s/1kyRtc8VCG8cqo28-dS5yVA )|
